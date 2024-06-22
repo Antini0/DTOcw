@@ -1,0 +1,6 @@
+@DTOcw_HostAddress = http://localhost:5251
+
+GET {{DTOcw_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
